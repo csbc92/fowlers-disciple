@@ -1,7 +1,7 @@
 # fowlers-disciple
 ## We make Martin Fowler proud
 
-Rev 1
+Rev 1: Nice patterns
 
          ,   ,
         /////|
@@ -9,10 +9,11 @@ Rev 1
       /////  |
      |~~~| | |
      |===| |/|
-     | B |/| |
-     | I | | |
-     | B | | |
-     | L |  / 
-     | E | /
+     | F |/| |
+     | O | | |
+     | W | | |      
+     | L | | |
+     | E |  / 
+     | R | /
      |===|/
 fwl  '---'
