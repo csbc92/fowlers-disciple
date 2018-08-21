@@ -43,3 +43,22 @@ Rev 1: Nice patterns
      | R | /
      |===|/
 fwl  '---'
+
+
+### Fowlers Castle
+```
+                         <|             |>
+     <|                   |             |                   |>
+      |                  [|-+-+-+-+-+-+-|]                  |      
+     [|-+-+-+-|]          |             |          [|-+-+-+-|]  
+      | o   o |   <|      \_ 0   0   0 _/       |>  | o   o |    
+      \       /    |        \         /         |   \       / 
+       |     |--------------|         |--------------|     |           
+       |  o  |              |    0    |              |  o  |
+       |     |   o   o   o  | _______ |  o   o   o   |     |
+       |     |              | MMMMMMM |              |     |
+       |     |              | MMMMMMM |              |     |    
+   _-xx|=====|______________|=MMMMMMM=|______________|=====|xx-_ 
+  (xXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx)
+                          ---------------
+```
